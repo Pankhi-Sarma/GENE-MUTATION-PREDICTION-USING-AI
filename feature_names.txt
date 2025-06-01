@@ -1,0 +1,257 @@
+Database_ID
+UMD_ID
+COSMIC_ID_x
+ATCC
+SNP_ID_x
+HG19_Start_x
+HG19_End_x
+HG18_Start_x
+HG18_End_x
+HG38_Start
+HG38_End
+NG_017013.2
+HG19_Variant_x
+HG18_Variant_x
+HG38_Variant_x
+NG_017013.2_Variant_x
+Start_cDNA_x
+End_cDNA_x
+Exon:intron_start
+Exon:intron_End_x
+Genome_base_coding_x
+cDNA_variant_x
+Codon_x
+WT_AA_1
+WT_AA_3
+Mutant_AA_1
+Mutant_AA_3
+Structure_x
+Domain_x
+PTM_x
+Base_Change_Size_x
+Ins_Size_x
+Del_Size_x
+Mutant_Allele_x
+Wt_Codon
+Mutant_Codon_x
+Mutational_event_x
+Type
+Mutation_Type_x
+CpG_x
+Py_Py_Doublets
+Tandem_Class_x
+Variant Comment
+Variant_Type_x
+Mutation_origin
+Disease
+Sample_pathology
+Sample_origin
+Name
+Hereditary_syndrome
+Genetic_Background
+Internal
+Solid
+Smoking
+Aflatoxin
+Radiations
+Drinking
+Asbestos
+Hepatitis_B
+Papilloma
+Exposure
+Complexity
+Unidentified_Mutations
+Records_Number_x
+Leukemia_Stat
+Solid_Stat
+Tumor_Stat
+Cell_line_Stat
+Somatic_Stat
+Germline_Stat
+Tumor_Repetition
+Publication_Repetition
+Comment prediction
+Comment frequency
+Comment outliers
+Comment activity
+Comment splicing
+Sift Score
+Sift Prediction
+Provean_Score_x
+Provean_prediction_x
+Mutassessor_score_x
+Mutassessor_prediction:
+Polyphen
+Condel_x
+MutPred_Splice_General_Score_x
+Prediction_Label
+Confident__Hypotheses
+Transcript t1
+Transcript t2
+Transcript t3
+Transcript t4
+Transcript t5
+Transcript t6
+Transcript t7
+Transcript t8
+Protein p1 _TP53
+Protein p3 _TP53_beta
+Protein p4 _TP53_gamma
+Protein p8 _Delta_40_TP53
+Protein p9 _Delta_40_TP53_beta
+Protein p10 _Delta_40_TP53_gamma
+Protein p5 _Delta_133_TP53_alpha
+Protein p6 _Delta_133_TP53_beta
+Protein p7 _Delta_133_TP53_gamma
+Protein p11 _Delta_160_TP53_alpha
+Protein p12 _Delta_160_TP53_beta
+Protein p13 _Delta_160_TP53_gamma
+WAF1_
+MDM2_
+BAX_
+__14_3_3_s
+AIP_
+GADD45_
+NOXA_
+p53R2_
+ReferenceID
+Authors
+Year
+Title
+Journal
+Volume
+Pages
+Medline
+Act_outliers
+PCA_outliers
+PCA_Score
+Comment_7_Sequence_x
+Comment_8_publication
+Comment_9_SNP
+Comments
+Pathogenicity_x
+cDNA_variant_y
+COSMIC_ID_y
+SNP_ID_y
+HG19_Variant_y
+HG18_Variant_y
+HG38_Variant_y
+NG_017013.2_Variant_y
+Transcript t1 MN_000546.5
+Transcript t2 NM_001126112.2
+Transcript t3 NM_001126114.2
+Transcript t4 NM_001126113.2
+Transcript t5 NM_001126115.1
+Transcript t6 NM_001126116.1
+Transcript t7 NM_001126117.1
+Transcript t8 NM_001126118.1
+Transcript t1 LRG_321
+Transcript t2 LRG_321
+Transcript t3 LRG_321
+Transcript t4 LRG_321
+Transcript t5 LRG_321
+Transcript t6 LRG_321
+Transcript t7 LRG_321
+Transcript t8 LRG_321
+Protein P1 TP53_alpha  NP_000537.3
+Protein P3 TP53_beta NP_001119586.1
+Protein P4 TP53_gamma NP_001119585.1
+Protein P8 Delta40_TP53_alpha NP_001119590.1
+Protein P9 Delta 40_TP53_beta NP_001263625.1
+Protein P10 Delta 40_TP53_gamma NP_001263624.1
+Protein P5 Delta 133_TP53_alpha NP_001119587.1
+Protein P6 Delta 133_TP53_beta NP_001119588.1
+Protein P7 Delta 133_TP53_gamma NP_001119589.1
+Protein P11 Delta160_TP53_alpha NP_001263626.1
+Protein P12 Delta160_TP53_beta NP_001263627.1
+Protein P13 Delta160_TP53_gamma NP_001263628.1
+Protein P1 TP53_alpha
+Protein P3 TP53_beta
+Protein P4 TP53_gamma
+Protein P8 Delta40_TP53_alpha
+Protein P9 Delta 40_TP53_beta
+Protein P10 Delta 40_TP53_gamma
+Protein P5 Delta 133_TP53_alpha
+Protein P6 Delta 133_TP53_beta
+Protein P7 Delta 133_TP53_gamma
+Protein P11 Delta160_TP53_alpha
+Protein P12 Delta160_TP53_beta
+Protein P13 Delta160_TP53_gamma
+HG19_Start_y
+HG19_End_y
+HG18_Start_y
+HG18_End_y
+Exon:intron_Start
+Exon:intron_End_y
+Start_cDNA_y
+End_cDNA_y
+Genome_base_coding_y
+Mutant_Allele_y
+Base_Change_Size_y
+Ins_Size_y
+Del_Size_y
+Codon_y
+WT_Codon
+Mutant_Codon_y
+WT AA_1
+WT AA_3
+Mutant AA_1
+Mutant AA_3
+Substitution type
+CpG_y
+Mutational_event_y
+Tandem_Class_y
+Variant_Classification_y
+Variant_Type_y
+Mutation_Type_y
+Variant_Comment
+Domain_y
+Structure_y
+PTM_y
+Records_Number_y
+Leukemia_Lymhoma_Freq
+Solid_Tumor_Freq
+Tumor_Freq
+Cell_line_Freq
+Somatic_Freq 2
+Germline_Freq 2
+WAF1_Act
+MDM2_Act
+BAX_Act
+_14_3_3_s_Act
+AIP_Act
+GADD45_Act
+NOXA_Act
+p53R2_Act
+WAF1_percent
+MDM2_percent
+BAX_percent
+14_3_3_s_percent
+AIP_percent
+GADD45_percent
+NOXA_percent
+p53R2_percent
+Sift_Prediction
+Sift_Score
+Polyphen-2_HumVar
+Polyphen-2_HumDiv
+Mutassessor_prediction
+Mutassessor_score_y
+Provean_prediction_y
+Provean_Score_y
+Condel_y
+Condel_Score
+MutPred_Splice_General_Score_y
+MutPred_Splice_Prediction_Label
+MutPred_Splice_Confident_Hypotheses
+Comment_1_Frequency
+Comment_2_Activity
+Comment_3_Isoforms
+Comment_4 prediction
+Comment_5_Outliers
+Comment_6_Splicing
+Comment_7_Sequence_y
+Comment_10_population
+Pathogenicity_y
+Final comment
+target
